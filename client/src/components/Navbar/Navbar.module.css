@@ -1,0 +1,21 @@
+.Nav{
+    height: 3rem;
+    padding: 1rem;
+    background-color: var(--bg);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.NavLogo {
+    width: 3rem;
+    height: auto;
+}
+
+.NavLink {
+    color: var(--text-b);
+    text-decoration: none;
+    font-size: 1rem;
+    padding-left: 1rem;
+    font-family: var(--font-primary);
+}
